@@ -1,7 +1,9 @@
 # 🚀 NeoFlow 3D - Guía del Usuario
+![NeonFlow](NeonFlow.jpg "Preview NeonFlow")
+
 
 ¡Bienvenido a **NeoFlow 3D**! Esta aplicación es un estudio de diseño 3D todo en uno donde puedes dibujar, modelar y crear escenas impresionantes de forma intuitiva.
-
+![Preview of NeonFlow user interface](CapturaNeonFlow.jpg "Preview of NeonFlow")
 Aquí tienes un resumen de todo lo que puedes hacer:
 
 ## 🎨 Herramientas de Dibujo y Creación
